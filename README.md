@@ -1,0 +1,2 @@
+# Mufredat
+Python Eğitimi Müfredatı
