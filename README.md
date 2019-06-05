@@ -1,15 +1,14 @@
 # Mufredat
 Python Eğitimi Müfredatı
 
-Hafta	Konu
-*1. Hafta*	
+1. Hafta
     •	IDE kurulumu ve tanıtımı
     •	Veri tipleri, degişkenler ve isimlendirme
     •	Print fonksiyonu ve parametreleri
     •	Kaçış dizileri
     •	Input ve tip dönüşümleri
 
-*2. Hafta*
+2. Hafta
     •	Eval ve exec fonksiyonları
     •	Koşullu ifadeler
     •	İşleçler
