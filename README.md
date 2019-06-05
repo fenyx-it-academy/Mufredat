@@ -14,7 +14,7 @@ Python Eğitimi Müfredatı
     •	İşleçler
     •	Döngüler
 
-*3. Hafta*
+3. Hafta
     •	Hata Yakalama
     •	Temel Dosya İşlemleri
 
