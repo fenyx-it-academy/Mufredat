@@ -1,5 +1,5 @@
-# Mufredat
-Python Eğitimi Müfredatı
+# Python Eğitimi Müfredatı
+
 
 
 | Hafta         | Konu          |
