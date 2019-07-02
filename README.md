@@ -7,7 +7,7 @@
 | 1. Hafta      |• IDE kurulumu ve tanıtımı<br>• Veri tipleri, degişkenler ve isimlendirme<br>• Print fonksiyonu ve parametreleri<br>• Kaçış dizileri<br>• Input ve tip dönüşümleri|                                        
 | 2. Hafta      |• Eval ve exec fonksiyonları<br>• Koşullu ifadeler<br>• İşleçler<br>• Döngüler|
 | 3. Hafta      |• Hata Yakalama<br>• Temel Dosya İşlemleri|
-| 4. Hafta      |• Integer Ve Metotları<br>• Aritmetik fonksiyonlar<br>• String ve Metotları<br>• String biçimlendirme ve format() metodu|
+| 4. Hafta      |• Integer Ve Metotları<br>• Aritmetik fonksiyonlar<br>• String ve Metotları<br>• String biçimlendirme, format() metodu ve f-string|
 | 5. Hafta      |• Array ve Tuple<br>• Array ve Tuple metotları|
 | 6. Hafta      |• Sayma Sistemleri<br>• Karakter kodlama<br>• Byte ve Bytearrays|
 | 7. Hafta      |• Dictionaries<br>• Sets|
