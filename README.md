@@ -1,6 +1,4 @@
 # Python Eğitimi Müfredatı
-aysegul,,,,,,,,,,,,,
-
 
 | Hafta         | Konu          |
 |:------------- |:------------- |
