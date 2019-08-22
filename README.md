@@ -1,4 +1,9 @@
 # Python Eğitimi Müfredatı
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> b2a2968459d3c5097ccfa6dc582eb5e38349fe8f
 
 | Hafta         | Konu          |
 |:------------- |:------------- |
